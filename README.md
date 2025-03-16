@@ -1,5 +1,6 @@
-# die
-mohon maaf, modul rusak, banyak kode saya ubah dengan AI.
+# ci crud bootstrap
+mohon maaf, kode di modul rusak, banyak kode saya ubah dengan AI.
+kodenya masih rusak
 ## essai
 1. 1.1 Instalasi CodeIgniter 3 dan Persiapan A. Persiapan 1.	Pastikan XAMPP atau software web server lainnya sudah terinstal di komputer. 2.	Download CodeIgniter 3 dari situs resminya: https://codeigniter.com/download B. Instalasi CodeIgniter 3 1.	Ekstrak file CodeIgniter yang telah didownload. 2.	Pindahkan folder hasil ekstraksi ke dalam folder htdocs pada XAMPP (biasanya terletak di C:/xampp/htdocs/). 3.	Ubah nama folder sesuai dengan nama proyek yang diinginkan (misalnya: ci-bootstrap). 4.	Buka file application/config/config.php, ubah bagian:
 ```
@@ -457,4 +458,4 @@ Tampilkan semua
 Tampilkan lainnya
 ```
 
-
+ini absen 2 xiipplg btw
